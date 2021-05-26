@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Compiled class file
 *.class
 
@@ -26,4 +26,3 @@ hs_err_pid*
 .idea
 /out
 *.iml
->>>>>>> 058d5da (solved first problem)
