@@ -1,5 +1,4 @@
 package io.vik;
-
 import java.util.HashMap;
 import java.util.List;
 
@@ -21,7 +20,7 @@ public class Solution1 {
     }
 
     private static boolean hasInt(List<Integer> integerList, int difference) {
-        return integerList.contains(difference) ? true : false;
+        return integerList.contains(difference);
     }
 
     public static final boolean findMatchInListUsingMap(List<Integer> integerList, int k) {
